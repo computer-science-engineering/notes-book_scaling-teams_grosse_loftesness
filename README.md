@@ -1,2 +1,3 @@
-# notes-book_scaling-teams_grosse_loftesness
-Notes from the book, Scaling Teams: Strategies for Building Successful Teams and Organizations.
+# Scaling Teams: Strategies for Building Successful Teams and Organizations
+
+- [Amazon](https://www.amazon.com/dp/B01N7RBP4P/)
