@@ -1,38 +1,28 @@
 {
-    "type": "Reading",
-    "name": "Distributed systems for fun and profit",
-    "origin": {
-        "name": "Notes - Book",
-        "link": ""
+  "type": "Reading",
+  "name": "Scaling Teams: Strategies for Building Successful Teams and Organizations",
+  "origin": {
+    "name": "Notes - Book",
+    "link": ""
+  },
+  "companies": ["", ""],
+  "categories": [
+    {
+      "name": "Books",
+      "children": []
     },
-    "companies": [
-        "",
-        ""
-    ],
-    "categories": [{
-            "name": "Books",
-            "children": []
+    {
+      "name": "Authors",
+      "children": [
+        {
+          "name": "Alexander Grosse"
         },
         {
-            "name": "Authors",
-            "children": [{
-                "name": "Mikito Takada",
-                "children": [{
-                    "name": "alias",
-                    "children": [{
-                        "name": "mixu",
-                        "children": []
-                    }]
-                }]
-            }]
+          "name": "David Loftesness"
         }
-    ],
-    "tags": [
-        "Distributed Systems",
-        "Cloud Computing"
-    ],
-    "buckets": [
-        "",
-        ""
-    ]
+      ]
+    }
+  ],
+  "tags": ["Engineering Leadership"],
+  "buckets": ["", ""]
 }
