@@ -15,10 +15,12 @@
       "name": "Authors",
       "children": [
         {
-          "name": "Alexander Grosse"
+          "name": "Alexander Grosse",
+          "children": []
         },
         {
-          "name": "David Loftesness"
+          "name": "David Loftesness",
+          "children": []
         }
       ]
     }
